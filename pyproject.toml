@@ -6,11 +6,11 @@ authors = ["Tharsis T. P. Souza"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 gradio-client = "^1.3.0"
 gradio = "^4.44.1"
 python-dotenv = "^1.0.1"
-podcastfy = "^0.1.12"
+podcastfy = "^0.1.13"
 
 
 [build-system]

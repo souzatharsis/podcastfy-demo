@@ -1,10 +1,3 @@
----
-title: Podcastfy.ai_demo
-app_file: podcastfy-app/app.py
-sdk: gradio
-sdk_version: 4.44.1
-python_version: 3.11
----
 # Podcastfy.ai
 [![CodeFactor](https://www.codefactor.io/repository/github/souzatharsis/podcastfy/badge)](https://www.codefactor.io/repository/github/souzatharsis/podcastfy)
 [![PyPi Status](https://img.shields.io/pypi/v/podcastfy)](https://pypi.org/project/podcastfy/)
@@ -12,8 +5,6 @@ python_version: 3.11
 [![Issues](https://img.shields.io/github/issues-raw/souzatharsis/podcastfy)](https://github.com/souzatharsis/podcastfy/issues)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
-[![Demo Status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/thatupiso/Podcastfy.ai_demo.svg?label=app)](https://huggingface.co/spaces/thatupiso/Podcastfy.ai_demo)
-
 
 Transforming Multi-Sourced Text into Captivating Multi-Lingual Audio Conversations with GenAI
 
@@ -26,8 +17,9 @@ Unlike UI-based tools focused primarily on note-taking or research synthesis (e.
 ## Audio Examples
 
 This sample collection is also [available at audio.com](https://audio.com/thatupiso/collections/podcastfy):
-- [English] Book Networks, Crowds, and Markets: [audio](https://audio.com/thatupiso/audio/networks)
-- [English] Research paper: ([audio](https://audio.com/thatupiso/audio/agro-paper) | [pdf](./data/pdf/s41598-024-58826-w.pdf))
+- [English] Youtube Video from YCombinator on LLMs: ([audio](https://audio.com/thatupiso/audio/ycombinator-llms) | [youtube](https://www.youtube.com/watch?v=eBVi_sLaYsc))
+- [English] Book pdf Networks, Crowds, and Markets: [audio](https://audio.com/thatupiso/audio/networks)
+- [English] Research paper on Climate Change in France: ([audio](https://audio.com/thatupiso/audio/agro-paper) | [pdf](./data/pdf/s41598-024-58826-w.pdf))
 - [English] Personal website: ([audio](https://audio.com/thatupiso/audio/tharsis) | [website](https://www.souzatharsis.com))
 - [English] Personal website + youtube video: ([audio](https://audio.com/thatupiso/audio/tharsis-ai) | [website](https://www.souzatharsis.com) | [youtube](https://www.youtube.com/watch?v=sJE1dE2dulg))
 - [French] Website: ([audio](https://audio.com/thatupiso/audio/podcast-fr-agro) | [website](https://agroclim.inrae.fr/))
@@ -67,6 +59,7 @@ python -m podcastfy.client --url <url1> --url <url2>
 
 - [CLI](usage/cli.md)
 
+Try [HuggingFace 🤗 space app](https://huggingface.co/spaces/thatupiso/Podcastfy.ai_demo) for a simple use case (URLs -> Audio).
 
 ## Contributing
 

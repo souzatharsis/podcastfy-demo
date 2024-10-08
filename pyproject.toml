@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "podcastfy-app"
+version = "0.1.0"
+description = "Simple application for podcastfy.ai"
+authors = ["Tharsis T. P. Souza"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+gradio-client = "^1.3.0"
+gradio = "^4.44.1"
+python-dotenv = "^1.0.1"
+podcastfy = "^0.1.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -12,6 +12,8 @@ python_version: 3.11
 [![Issues](https://img.shields.io/github/issues-raw/souzatharsis/podcastfy)](https://github.com/souzatharsis/podcastfy/issues)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
+[![Demo Status](https://img.shields.io/website-up-down-green-red/https/huggingface.co/spaces/thatupiso/Podcastfy.ai_demo.svg?label=app)](https://huggingface.co/spaces/thatupiso/Podcastfy.ai_demo)
+
 
 Transforming Multi-Sourced Text into Captivating Multi-Lingual Audio Conversations with GenAI
 

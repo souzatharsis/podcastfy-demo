@@ -1,6 +1,6 @@
 # Podcastfy.ai demo
 
-Created with ❤️ by [Podcastfy](www.podcastfy.ai)
+Created with ❤️ by [Podcastfy](https://www.podcastfy.ai)
 
 Transforming Multi-Sourced Text into Captivating Multi-Lingual Audio Conversations with GenAI
 
@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/f1559e70-9cf9-4576-b48b-87e7dad1dd0b
 
 Try [HuggingFace 🤗 space app](https://huggingface.co/spaces/thatupiso/Podcastfy.ai_demo) for a simple use case (URLs -> Audio).
 
-See Python package and CLI at the original [Podcastfy's github repo](www.podcastfy.ai) for full customization options.
+See Python package and CLI at the original [Podcastfy's github repo](https://www.podcastfy.ai) for full customization options.
 
 WARNING: This UI App was not as thoroughly tested as the Python package.
 

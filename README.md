@@ -1,5 +1,7 @@
 # Podcastfy.ai demo
 
+Created with ❤️ by [Podcastfy](www.podcastfy.ai)
+
 Transforming Multi-Sourced Text into Captivating Multi-Lingual Audio Conversations with GenAI
 
 https://github.com/user-attachments/assets/f1559e70-9cf9-4576-b48b-87e7dad1dd0b

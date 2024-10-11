@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/f1559e70-9cf9-4576-b48b-87e7dad1dd0b
 
 Try [HuggingFace 🤗 space app](https://huggingface.co/spaces/thatupiso/Podcastfy.ai_demo) for a simple use case (URLs -> Audio).
 
-See [Open Source Python package and CLI](https://www.podcastfy.ai) at the original github repo for full customization options.
+See [Open Source Python package](https://www.podcastfy.ai) and CLI at the original github repo for full customization options.
 
 WARNING: This UI App was not as thoroughly tested as the underlying Python package.
 

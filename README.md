@@ -1,5 +1,5 @@
 ---
-title: Podcastfy.ai_demo
+title: Podcastfy.ai - An Open Source alternative to NotebookLM's podcast feature
 app_file: podcastfy-app/app.py
 sdk: gradio
 sdk_version: 5.4.0

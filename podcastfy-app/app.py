@@ -348,7 +348,7 @@ with gr.Blocks(
             )
             tts_model = gr.Radio(
                 choices=["openai", "elevenlabs", "edge"],
-                value="edge",
+                value="openai",
                 label="Text-to-Speech Model",
                 info="Choose the voice generation model (edge is free but of low quality, others are superior but require API keys)"
             )

@@ -1,5 +1,5 @@
 ---
-title: podcastfy-demo
+title: Podcastfy.ai_demo
 app_file: podcastfy-app/app.py
 sdk: gradio
 sdk_version: 5.4.0

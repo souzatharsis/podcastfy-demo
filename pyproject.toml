@@ -8,7 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 gradio = "^5.4.0"
-podcastfy = "^0.2.13"
+podcastfy = "^0.2.15"
 gradio-client = "^1.4.2"
 python-dotenv = "^1.0.1"
 

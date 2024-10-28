@@ -1,4 +1,4 @@
 gradio-client==1.4.2
 gradio==5.4.0
-podcastfy==0.2.12
+podcastfy==0.2.15
 python-dotenv==1.0.1
